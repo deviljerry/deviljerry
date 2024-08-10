@@ -1,3 +1,16 @@
+
+<img align="right" alt="GIF" height="220px" src="https://github.com/deviljerry/deviljerry/blob/main/images/b.gif" />
+
+- 👨‍💻 I’m currently working on **Automations using AI and LLMs**. 🐦🔧
+- 🚀 Additionally, I'm immersing myself in the art of **System Design**. ⚙️
+- 📚 I’m more interested in **Backend** technologies. 📤
+- 💪🏼 Future Goals:
+    - Dedicate more time to contributing to **Open-Source** technologies. 🌌
+    - Develop Generative AI-based efficient services. 🤖
+    - Learn **GoLang** as a low-latency language. ⏱️
+- ⚡ Fun fact: I love to use **HashMap** and **HashSet**. #️⃣
+
+
 <h1 align="center">Hi 👋, I'm Qasim Qazi</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
