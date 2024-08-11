@@ -65,11 +65,9 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 
 ## 🏆 GitHub Trophies
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=deviljerry&theme=onedark" alt="trophy">
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deviljerry" alt="deviljerry" /></a> </p>
 
 ## ⚙️GitHub Analytics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deviljerry&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
