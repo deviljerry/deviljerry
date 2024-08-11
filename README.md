@@ -69,6 +69,8 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deviljerry" alt="deviljerry" /></a> </p>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deviljerry&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deviljerry&show_icons=true&locale=en&layout=compact" alt="deviljerry" /></p>
 
