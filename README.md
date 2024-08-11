@@ -1,5 +1,15 @@
+Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is QasimQazi.
+=========================================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Initializing+Class+HelloWorld().)](https://github.com/ammansoomro)
+
+
 ![image](https://github.com/deviljerry/deviljerry/blob/main/images/img.jpg)
 
+<h1 align="center">Hi 👋, I'm Qasim Qazi</h1>
+<h3 align="center">A passionate fullstack developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deviljerry&label=Profile%20views&color=0e75b6&style=flat" alt="deviljerry" /></p>
 
 <img align="right" alt="GIF" height="220px" src="https://github.com/deviljerry/deviljerry/blob/main/images/b.gif" />
 
@@ -13,15 +23,11 @@
 - ⚡ Fun fact: I love to use **HashMap** and **HashSet**. #️⃣
 
 
-<h1 align="center">Hi 👋, I'm Qasim Qazi</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan</h3>
+- 📫 How to reach me **kkcoder9211@gmail.com | qasimnaveed206@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deviljerry&label=Profile%20views&color=0e75b6&style=flat" alt="deviljerry" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kkcoder9211" target="blank"><img src="https://img.shields.io/twitter/follow/kkcoder9211?logo=twitter&style=for-the-badge" alt="kkcoder9211" /></a> </p>
 
-
-- 📫 How to reach me **kkcoder9211@gmail.com | qasimnaveed206@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
