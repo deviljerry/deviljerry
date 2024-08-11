@@ -73,19 +73,10 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={deviljerry}&theme={radical}
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={deviljerry}&theme={dracula}&exclude={exclude}
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={deviljerry}&theme={solarized}
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={deviljerry}&theme={2077l}&exclude={exclude}
 
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={deviljerry}&theme={monokai}&exclude={exclude}
-
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={deviljerry}&theme={tokyonight}
-
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={deviljerry}&theme={solarized_dark}&utcOffset={utcOffset}
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deviljerry&show_icons=true&locale=en&layout=compact" alt="deviljerry" /></p>
 
