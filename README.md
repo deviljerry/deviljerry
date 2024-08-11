@@ -6,7 +6,13 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![image](https://github.com/deviljerry/deviljerry/blob/main/images/img.jpg)
 
-<h1 align="center">Hi 👋, I'm Qasim Qazi</h1>
+<h1 align="center">Hi 👋, let's have a brief intro of mine</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Friend++%2C+Welcome+to+my+GitHub+Profile;Qasim+Qazi++here+!;+Nice+to+meet+u;++I'm+Computer+Science+Student++in+Pakistan;+Lets+Follow+each+Other;+Happy+Coding" alt="Typing SVG" /></a>
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+<br>
+
+
 <h3 align="left">A passionate fullstack developer from Pakistan <p align="right"> <img src="https://komarev.com/ghpvc/?username=deviljerry&label=Profile%20views&color=0e75b6&style=flat" alt="deviljerry" /></p>
 </h3>
 
