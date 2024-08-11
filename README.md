@@ -72,9 +72,35 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deviljerry&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+## 📄 Profile Summary Card
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deviljerry&theme=radical">
+  </a>
+</p>
 
 
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deviljerry&theme=2077">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deviljerry&theme=dracula">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deviljerry&theme=github_dark">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gruvbox&theme=monokai">
+  </a>
+</p>
 
 
 
