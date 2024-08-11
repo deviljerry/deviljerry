@@ -35,8 +35,7 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <p align="right"> <a href="https://twitter.com/kkcoder9211" target="blank"><img src="https://img.shields.io/twitter/follow/kkcoder9211?logo=twitter&style=for-the-badge" alt="kkcoder9211" /></a> </p>
 
-
-<h3 align="left">Connect with me:</h3>
+## 📫 Let's Connect
 <p align="left">
 <a href="https://codepen.io/kasim-kazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kasim-kazi" height="30" width="40" /></a>
 <a href="https://dev.to/kkcoder9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kkcoder9211" height="30" width="40" /></a>
