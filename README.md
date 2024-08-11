@@ -113,12 +113,12 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ---
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=fatimaazfar&theme=monokai&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=deviljerry&theme=monokai&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <p align="center">
-  <img width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=fatimaazfar&show_icons=true&theme=monokai">
-  <img width="350" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaazfar&size_weight=0.15&count_weight=0.5&layout=compact&theme=monokai">
+  <img width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=deviljerry&show_icons=true&theme=monokai">
+  <img width="350" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviljerry&size_weight=0.15&count_weight=0.5&layout=compact&theme=monokai">
 </p>
 
 ---
