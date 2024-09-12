@@ -33,7 +33,17 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 - 📫 How to reach me **kkcoder9211@gmail.com | qasimnaveed206@gmail.com**
 
 
+  
 <p align="right"> <a href="https://twitter.com/kkcoder9211" target="blank"><img src="https://img.shields.io/twitter/follow/kkcoder9211?logo=twitter&style=for-the-badge" alt="kkcoder9211" /></a> </p>
+
+If I am not working or coding, I am probably 
+- sleeping
+- doing husband and father duties
+- listening to James Taylor
+- playing guitar
+- biking
+- running
+- swimming
 
 ## 📫 Let's Connect
 <p align="left">
