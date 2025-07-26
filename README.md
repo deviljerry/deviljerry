@@ -349,6 +349,12 @@ If I am not working or coding, I am probably
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FEE140,100:FA709A&amp;height=80&amp;section=footer&amp;text=Let's+Code+%26amp;+Create+the+Future!&amp;fontSize=28&amp;fontColor=000000&amp;animation=fadeIn" width="100%" />
+</p>
+
+
+
 
 
 ![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
