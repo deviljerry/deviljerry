@@ -84,6 +84,30 @@ If I am not working or coding, I am probably
 - running
 - swimming
 
+---
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="95%" alt="Animated Dev Encouragement"/>
+</td>
+<td width="50%">
+  <h3>
+    <span style="color:#00FFDD;">“Keep coding, keep building.”</span>  
+    <br><span style="color:#FF9900;">“Every great product starts with a single commit.”</span>  
+    <br><span style="color:#FF33FF;">“Dream it. Code it. Build it.”</span>
+  </h3>
+</td>
+</tr>
+</table>
+
+---
+
+
+
+
+
+
 ## 📫 Let's Connect
 <p align="left">
 <a href="https://codepen.io/kasim-kazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kasim-kazi" height="30" width="40" /></a>
