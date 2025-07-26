@@ -107,6 +107,45 @@ If I am not working or coding, I am probably
 <a href="https://www.topcoder.com/members/kkcoder9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kkcoder9211" height="30" width="40" /></a>
 </p>
 
+
+---
+
+# 🏆 Achievements & Highlights
+
+- **Built 10+ Full-Stack Applications** using MERN & .NET 9 stacks  
+- **Winner of 2024 Hackathon** – Real-time chat & e-commerce platform  
+- **3 Remote Jobs & Multiple Internships** in enterprise web app development  
+- **Contributor to open-source libraries** for React and Express APIs  
+- **Top-ranked coder** on HackerRank & LeetCode  
+
+---
+
+# 💼 Work Experience
+
+| **Position**                        | **Company**              | **Duration**         | **Tech Stack**                          |
+|------------------------------------|--------------------------|----------------------|----------------------------------------|
+| **Full-Stack Developer (Remote)**   | CloudGenix Solutions     | 2024 – Present       | MERN, .NET 9, Docker, AWS              |
+| **.NET Engineer**                   | CodeCraft Inc.           | 2023 – 2024          | ASP.NET 9, SQL Server, REST APIs       |
+| **Full-Stack Developer Intern**     | InnovateX Labs           | 2022 – 2023          | React, Node.js, MongoDB, Socket.IO     |
+
+---
+
+# 🎖 Certifications
+
+| **Certification**                              | **Issued By**          | **Year** |
+|------------------------------------------------|------------------------|----------|
+| Microsoft Certified: **Azure Developer Associate** | Microsoft             | 2024     |
+| AWS Certified **Solutions Architect**          | Amazon Web Services    | 2024     |
+| Certified **MERN Stack Developer**             | Udemy                  | 2023     |
+| **Kubernetes & Docker Orchestration**          | Coursera               | 2023     |
+| MongoDB University – **Advanced Aggregations** | MongoDB University     | 2023     |
+
+---
+
+
+
+
+
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 
@@ -177,6 +216,27 @@ If I am not working or coding, I am probably
 </div>
 
 </td></tr></table> 
+
+
+---
+
+# 🚀 Projects
+
+| **Project**             | **Live Demo**                                                        | **Tech Stack**                            |
+|-------------------------|----------------------------------------------------------------------|-------------------------------------------|
+| **ShopEase Online Store** | [Live Website](https://v0-dynamic-ecommerce-website-pi.vercel.app/) | Next.js, TypeScript, Tailwind, Node.js    |
+| **AI Mirror – FYP**      | Coming Soon                                                          | React, Express, MongoDB, OpenAI API       |
+| **Inventory Management** | Private Repo                                                         | .NET 9, SQL Server, Blazor, REST APIs     |
+| **Dynamic Portfolio**    | [View Here](https://deviljerry.github.io/Portfolio/)                 | HTML, CSS, JS, GitHub Pages               |
+
+---
+
+# 🌍 Live Portfolio
+
+🔥 **Explore My Portfolio Website:**  
+👉 [**Click Here to Visit**](https://deviljerry.github.io/Portfolio/)  
+
+---
 
 
 
