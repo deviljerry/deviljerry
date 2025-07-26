@@ -1,10 +1,23 @@
+
 Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is QasimQazi.
 =========================================================================================================================================
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Initializing+Class+HelloWorld().)](https://github.com/ammansoomro)
 
-
 ![image](https://github.com/deviljerry/deviljerry/blob/main/images/img.jpg)
+
+
+<p align="center">
+  <img src="https://media.tenor.com/wt6Hw-Dj5lYAAAAd/developer-life.gif" width="280">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280">
+</p>
+
+---
+
+
+
 
 <h1 align="center">Hi 👋, let's have a brief intro of mine</h1>
 
