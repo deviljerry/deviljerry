@@ -1,9 +1,55 @@
 
-Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is QasimQazi.
-=========================================================================================================================================
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFDEE9,100:B5FFFC&amp;height=150&amp;section=footer&amp;text=Welcome+to+My+Creative+World!&amp;fontSize=32&amp;fontAlignY=40&amp;fontColor=000000&amp;animation=twinkling&amp;reversal=true" width="100%" />
+</p>
+
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner2.gif" alt="Qasim Naveed | Full Stack Developer" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="90px" alt="Logo Left"/>
+  <span>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&amp;size=40&amp;duration=4000&amp;pause=500&amp;color=FF1493&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Hi+There!+I'm+Qasim+Naveed;Building+Future-Ready+Tech+%F0%9F%9A%80;Crafting+Code+with+Passion+%F0%9F%92%AB" alt="Typing Animation" />
+  </span>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="90px" alt="Logo Right"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=700&amp;size=34&amp;duration=3500&amp;pause=1000&amp;color=FF8C00&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=🚀+Architecting+Next-Gen+Full-Stack+Solutions;💻+MERN+Stack+%26amp;.NET+9+-+Enterprise+Grade+Apps;🤖+Pioneering+AI+%26amp;+Intelligent+Automation;🔥+Innovating+with+Scalable+Technologies" alt="Typing Animation" />
+</p>
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Initializing+Class+HelloWorld().)](https://github.com/ammansoomro)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is QasimQazi.
+=========================================================================================================================================
+
 
 ![image](https://github.com/deviljerry/deviljerry/blob/main/images/img.jpg)
 
