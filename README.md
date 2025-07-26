@@ -47,7 +47,7 @@
 
 
 
-Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is QasimQazi.
+Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Qasim Naveed Qazi.
 =========================================================================================================================================
 
 
@@ -65,7 +65,7 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 
 
-<h1 align="center">Hi 👋, let's have a brief intro of mine</h1>
+<h1 align="center"> 👋, let's have a brief intro of mine</h1>
 
 ---
 
@@ -218,6 +218,37 @@ If I am not working or coding, I am probably
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
+### **Frontend**
+
+| ReactJS | Next.js | TypeScript | Redux | Tailwind CSS | Bootstrap | HTML5 | CSS3 | JavaScript |
+|---------|---------|------------|-------|--------------|-----------|-------|------|------------|
+| ![](https://skillicons.dev/icons?i=react) | ![](https://skillicons.dev/icons?i=nextjs) | ![](https://skillicons.dev/icons?i=ts) | ![](https://skillicons.dev/icons?i=redux) | ![](https://skillicons.dev/icons?i=tailwind) | ![](https://skillicons.dev/icons?i=bootstrap) | ![](https://skillicons.dev/icons?i=html) | ![](https://skillicons.dev/icons?i=css) | ![](https://skillicons.dev/icons?i=js) |
+
+---
+
+### **Backend**
+
+| Node.js | Express.js | .NET 9 | C# | Python | GoLang | PHP | REST APIs | GraphQL |
+|---------|------------|-------|----|--------|--------|-----|-----------|---------|
+| ![](https://skillicons.dev/icons?i=nodejs) | ![](https://skillicons.dev/icons?i=express) | ![](https://skillicons.dev/icons?i=dotnet) | ![](https://skillicons.dev/icons?i=cs) | ![](https://skillicons.dev/icons?i=python) | ![](https://skillicons.dev/icons?i=go) | ![](https://skillicons.dev/icons?i=php) | ![](https://skillicons.dev/icons?i=api) | ![](https://skillicons.dev/icons?i=graphql) |
+
+---
+
+### **Databases & Cache**
+
+| SQL Server | MySQL | PostgreSQL | MongoDB | Redis | Firebase | Oracle |
+|------------|-------|------------|---------|-------|----------|--------|
+| ![](https://skillicons.dev/icons?i=mongodb) | ![](https://skillicons.dev/icons?i=mysql) | ![](https://skillicons.dev/icons?i=postgres) | ![](https://skillicons.dev/icons?i=redis) | ![](https://skillicons.dev/icons?i=firebase) | ![](https://skillicons.dev/icons?i=oracle) |
+
+---
+
+### **DevOps & Tools**
+
+| Docker | Kubernetes | AWS | Azure | GitHub | GitLab | VS Code | Visual Studio | Postman | Linux |
+|--------|------------|-----|-------|--------|--------|---------|---------------|---------|-------|
+| ![](https://skillicons.dev/icons?i=docker) | ![](https://skillicons.dev/icons?i=kubernetes) | ![](https://skillicons.dev/icons?i=aws) | ![](https://skillicons.dev/icons?i=azure) | ![](https://skillicons.dev/icons?i=github) | ![](https://skillicons.dev/icons?i=gitlab) | ![](https://skillicons.dev/icons?i=vscode) | ![](https://skillicons.dev/icons?i=visualstudio) | ![](https://skillicons.dev/icons?i=postman) | ![](https://skillicons.dev/icons?i=linux) |
+
+---
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
