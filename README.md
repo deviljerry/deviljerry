@@ -7,6 +7,15 @@
 
 
 
+Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Qasim Naveed Qazi.
+=========================================================================================================================================
+
+
+![image](https://github.com/deviljerry/deviljerry/blob/main/images/img.jpg)
+
+
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner2.gif" alt="Qasim Naveed | Full Stack Developer" width="100%" />
@@ -26,39 +35,16 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Initializing+Class+HelloWorld().)](https://github.com/ammansoomro)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Qasim Naveed Qazi.
-=========================================================================================================================================
-
-
-![image](https://github.com/deviljerry/deviljerry/blob/main/images/img.jpg)
-
-
-<p align="center">
-  <img src="https://media.tenor.com/wt6Hw-Dj5lYAAAAd/developer-life.gif" width="280">
+<p align="right">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280">
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Initializing+Class+HelloWorld().)](https://github.com/ammansoomro)
+
+
 
 ---
 
