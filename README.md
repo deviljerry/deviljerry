@@ -1,3 +1,10 @@
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=900&lines=🔥+Let's+Build+Something+Epic!;Code+That+Speaks+for+Itself+💻;Innovating+One+Line+at+a+Time+⚡;Let's+Connect+and+Create+🚀" alt="Animated Header" />
+</h1>
+
+
+
 
 
 <p align="center">
