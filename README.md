@@ -199,7 +199,23 @@ If I am not working or coding, I am probably
   <img width="350" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviljerry&size_weight=0.15&count_weight=0.5&layout=compact&theme=monokai">
 </p>
 
----
+<!-- =================== QASIM NAVEED - TECH SNAKE GAME =================== -->
+----
+# 🐍 Contribution Snake
+----
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=⚡+Watch+the+Snake+Conquer+My+Commits!+⚡" alt="Snake Game Title" />
+</h2>
+
+<p align="center" style="background-color:#0D1117; padding:15px; border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=FF8C00&center=true&vCenter=true&width=600&lines=🔥+Tracking+Every+Step+of+the+Snake!;🚀+Animating+Your+GitHub+Activity;⚙️+Powered+by+Open+Source+Innovation" alt="Snake Game Footer" />
+</p>
+
 
 
 <picture>
@@ -207,6 +223,8 @@ If I am not working or coding, I am probably
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
 
 
 
