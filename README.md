@@ -1,3 +1,19 @@
+## :)
+<div align="left">
+  <img alt="1" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/1.gif">
+  <img alt="2" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/2.gif">
+  <img alt="3" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/3.gif">
+  <img alt="4" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/4.gif">
+  <img alt="6" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/6.gif">
+  <img alt="7" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/7.gif">
+  <img alt="8" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/8.gif"> 
+  <img alt="10" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/10.gif">
+  <img alt="11" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/11.gif">
+  <img alt="22" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/22.gif">
+  <img alt="12" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/12.gif">
+  <img alt="24" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/24.gif">
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFDEE9,100:B5FFFC&amp;height=150&amp;section=footer&amp;text=Welcome+to+My+Creative+World!&amp;fontSize=32&amp;fontAlignY=40&amp;fontColor=000000&amp;animation=twinkling&amp;reversal=true" width="100%" />
