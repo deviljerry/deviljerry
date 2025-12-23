@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFDEE9,100:B5FFFC&amp;height=150&amp;section=footer&amp;text=Welcome+to+My+Creative+World!&amp;fontSize=32&amp;fontAlignY=40&amp;fontColor=000000&amp;animation=twinkling&amp;reversal=true" width="100%" />
+</p>
+
+
+
 ## :)
 <div align="left">
   <img alt="1" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/1.gif">
@@ -13,11 +20,6 @@
   <img alt="12" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/12.gif">
   <img alt="24" height="100" src="https://github.com/deviljerry/deviljerry/blob/main/images/gifs/24.gif">
 </div>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFDEE9,100:B5FFFC&amp;height=150&amp;section=footer&amp;text=Welcome+to+My+Creative+World!&amp;fontSize=32&amp;fontAlignY=40&amp;fontColor=000000&amp;animation=twinkling&amp;reversal=true" width="100%" />
-</p>
 
 
 ![image](https://github.com/deviljerry/deviljerry/blob/main/images/img.jpg)
